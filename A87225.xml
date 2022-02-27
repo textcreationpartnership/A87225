@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An item to his Majestie concerning Prince Rupert and his cavaliers. Or, A looking-glasse, wherein His Majesty may see his nephews love; vvho secretly under pretence of assisting him, to gain an absolute prerogative or arbitrary power, will disthrone him to set up himselfe. / Written by a welwisher to His Majesty.</title>
+            <author>Welwisher to His Majesty.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87225</idno>
+            <idno type="STC">Wing I1089</idno>
+            <idno type="STC">Thomason E88_7</idno>
+            <idno type="STC">ESTC R22501</idno>
+            <idno type="EEBO-CITATION">99871768</idno>
+            <idno type="PROQUEST">99871768</idno>
+            <idno type="VID">155707</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87225)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155707)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E88[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An item to his Majestie concerning Prince Rupert and his cavaliers. Or, A looking-glasse, wherein His Majesty may see his nephews love; vvho secretly under pretence of assisting him, to gain an absolute prerogative or arbitrary power, will disthrone him to set up himselfe. / Written by a welwisher to His Majesty.</title>
+                  <author>Welwisher to His Majesty.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, in the year of the King of Kings 1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "feb: 3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155707:1" rendition="simple:additions"/>
+            <p>An Item to His MAIESTIE Concerning PRINCE RVPERT And his CAVALIERS.</p>
+            <p>OR, A Looking-Glaſſe, wherein His Majeſty may ſee his NEPHEWS Love;</p>
+            <p>Who ſecretly under pretence of Aſſiſting Him, to gain an abſolute Prerogative or Arbitrary Power, will diſthrone Him to ſet up himſelfe.</p>
+            <p>Written by a Welwiſher to His <hi>MAjESTY.</hi>
+            </p>
+            <p>
+               <add>Feb: 3</add> PRINTED, In the year of the KING of Kings. 1642.</p>
+            <pb facs="tcp:155707:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:155707:2"/>
+            <head>An Item to His MAIESTIE Concerning Prince RUPERT, and his <hi>CAVALIERS.</hi>
+            </head>
+            <p>WHileſt His Majeſty is forcing a way through Laws and Parliaments, by ſeeking to eradicate the one, and overthrow the juſt priviledges of the other, to gain an abſolute Prerogative, and eſtabliſh Ar<g ref="char:EOLhyphen"/>bitrary power, by which he and his poſterity is diſeſtee<g ref="char:EOLhyphen"/>med, and His loving and loyall Subjects may be enſla<g ref="char:EOLhyphen"/>ved, he plainly runs the hazard of a double deſtruction, and ruine to Himſelfe and Poſterity.</p>
+            <p>The one is by endeavouring to aboliſh the ancient Fundamentall Conſtitutions of this Kingdom, eſtabli<g ref="char:EOLhyphen"/>ſhed upon Laws and Parliaments, Himſelfe being the top Bough and higheſt Branch, which muſt needs there<g ref="char:EOLhyphen"/>fore have the greateſt fall, if this long flouriſhing Tree be digged up by the roote. And here I pray, His Maje<g ref="char:EOLhyphen"/>ſtie would deliberately Conſider; 1. That the Root and Body may flouriſh, when as the top Branch being nipt
+<pb n="2" facs="tcp:155707:3"/> with evill blaſts, may be deprived of the ſap that may remain in the Root and Body, and ſo may fall, or if not fall, it may be cut off as being not fit to remain thereon, leſt it bring deſtruction to the reſt being ſo infected with the blaſts of evill Counſell. Farre be it from me to de<g ref="char:EOLhyphen"/>ſire it, the Lord grant it may bee prevented, leſt this Breach from the Root and Body be not of worſer conſe<g ref="char:EOLhyphen"/>quence in a civill reſpect, than the cutting off of the Jews, by reaſon of their unbeliefe in a ſpirituall; who though they were broken off, yet may at laſt be grafted in againe; and if the Lawes and Parliaments bee the Root which His Majeſty hath confeſſed in His Coro<g ref="char:EOLhyphen"/>nation Oath, in putting Himſelfe to be guided by them; then let Him conſider that He beareth not the Root, but the Root him, and though He be the Head as is confe<g ref="char:EOLhyphen"/>ſſed, yet if it be ſeperated from the body, it cannot long have life. But</p>
+            <p>Secondly, Be pleaſed to conſider, That the Laws and Parliaments are as properly the peoples, if not more, yet of greater concernment than either the Land-markes or <hi>Naboths</hi> Vineyard, the one of which being removed, the other taken away, did not only bring a heavy curſe, but alſo layd a ſad foundation of a ruine both to a King and his Poſterity, 1 <hi>Kings</hi> 21. And truly the King of kings, the God of Juſtice Will do juſtly; regarding in this reſpect the perſons not of any, but hath provided <hi>Tophet of old,</hi> for Kings as well as beggars if they offend
+<pb n="3" facs="tcp:155707:3"/> him. Therefore, deare Soveraign (for whom my ſoul bleedeth) be pleaſed to take the kingly Prophets advice, <hi>Be wiſe now therefore oh ye Kings, be inſtructed ye Iudges of the earth; Serve the Lord with feare, and rejoyce with trembling, Kiſſe the Sonne leſt he be angry, and ye periſh in the way, when his wrath is kindled but a little, Bleſſed are all they that truſt in him.</hi> And remember the Honor of a King conſiſts in a multitude of people; but where will that honor bee if the ſword continue to devour; but it may be the ground of all this before will not be ſo eaſily believed, becauſe His Majeſty may perſwade Himſelfe, that either by the Tranſportation of Himſelf into another ſoyle, or by al<g ref="char:EOLhyphen"/>tering the nature of that ſoyl, upon which and by which He moſt naturally ſtandeth (that is by changing from Parliamentary, to Arbitrary) may cauſe Him to grow the better; but not only the Statiſts doth, but I hope ex<g ref="char:EOLhyphen"/>perience may teach both His Majeſty and us, That alte<g ref="char:EOLhyphen"/>rations are dangerous, eſpecially Fundamentall ones, both to King and people; and if neither may be be<g ref="char:EOLhyphen"/>lieved, yet Scripture may, in which <hi>Rehobohams</hi> caſe ſtands Recorded; not onely for this, but alſo for his hearkning to ill Counſell, who may ſeeme to have grea<g ref="char:EOLhyphen"/>ter colour for what he did, than thoſe Kings which are onely ſo by compact, and are as really bound to their people, as the people to them, in the fulfilling of thoſe Lawes agreed to by both; unleſſe as King <hi>Iames</hi> ſayd, They will ceaſe to be Kings and turne Tyrants,
+<pb n="4" facs="tcp:155707:4"/> which I hope harbours not in your MAjESTIES breaſt; and if we ſhould ſtep lower, and look at reaſon, it aſſures us that no one mans will, though it were the ſame that <hi>Adam</hi> had in innocen<g ref="char:EOLhyphen"/>cie, is ſo ſafe to govern by, as is the counſell of many, with the conſent of all.</p>
+            <p>The other danger His Majeſty runs, is more cloſe, and leſſe diſ<g ref="char:EOLhyphen"/>cerned, lying hid under an open ſhew of friendſhip, and ſiding with Him againſt His ſuppoſed enemies, by His Nephew Prince <hi>Rupert,</hi> one of the Blood-Royall, and not ſo far from the Crown, but if once the courſe of Law and power of Parliaments be ex<g ref="char:EOLhyphen"/>tinguiſhed, he may bid as fair for it by the ſword, as His Majeſty, he having poſſeſſed himſelfe of ſo much power already, under co<g ref="char:EOLhyphen"/>lour of ſerving the King, and by his <hi>Germaine</hi> manner of plunde<g ref="char:EOLhyphen"/>ring, and his active diſpoſition in Military affairs, having wonne the hearts of ſo many thouſand Souldiers of fortune and men of pray; he is already their Chieftain and Prince, and if hereafter the power be transferred from civill to Marſhall, he is like enough to be their King, and if theirs, then the peoples, if once ſubdued; for the King having loſt their hearts, and the Law having loſt their force, he that hath the beſt ſword, and is likelieſt to do moſt miſchief, will be ſure to gain the greateſt party, and ſubdue the moſt to his ſubjection. We may remember how it fared with the <hi>Romans,</hi> ſo ſoon as the Legions or Military power was too ſtrong for the Senate, they choſe the Emperor: when Law loſt his force; the Emperor loſt his right; ſo when Parliaments are o<g ref="char:EOLhyphen"/>ver borne with Cavaliers, the King will be ſubject to every winde of violence, and they that now pretend to ſet Him above His Par<g ref="char:EOLhyphen"/>liament, will then ſet themſelves above him, and will retort upon Him the ſame language He now uſeth againſt the Parliament; for when as He ſhall plead the Law againſt violence, for His being rightfull King, it will be demanded of Him, what Written. Law He can produce to make Him King of <hi>England?</hi> if He make An<g ref="char:EOLhyphen"/>ſwer, that the Fundamentall Laws put Him in that Office; it will again be told Him, That His own poſition is, that thoſe Funda<g ref="char:EOLhyphen"/>mentall Laws muſt be known Laws, explicit and written, elſe not
+<pb n="5" facs="tcp:155707:4"/> to be truſted or urged in Plea; and then if no Law make Him King, Conqueſt may without wrong to Him, prefer another to the Crown, who is no ſtranger in bloud, and much more deſer<g ref="char:EOLhyphen"/>ving by the ſword, this whole War being managed by his skill<g ref="char:punc">▪</g> labour and induſtry; inſomuch, as already if the King command one thing and he another, the Prince muſt be preferred before the King; witneſſe <hi>Banbury,</hi> which was ſecured from plundering by the Kings own hand; but that was ſlighted, and the Town plun<g ref="char:EOLhyphen"/>dered by Prince <hi>Rupert,</hi> vilifying the Kings Authority and Fide<g ref="char:EOLhyphen"/>lity, making it a fault of His unexpertneſſe; Saying, his Uncle knew not what belonged to War. This may be ſufficient to de<g ref="char:EOLhyphen"/>monſtrate what he intends, but expreſſions newly vented may con<g ref="char:EOLhyphen"/>firm, in which there was little civility, and leſſe Loyalty; but what can be expected from ſchollers taught by ſuch a Maſter, they coming to perform a peece of ſervice for their Mr (and no doubt by his commands) that they might give him the earneſt to aſſure him of the full poſſeſſion of the whole kingdom; ſet upon <hi>Henley;</hi> who no ſooner was entred within the Town, but they cryed out (as thinking it ſure) God dam us, the Town is Prince <hi>Roberts,</hi> but they reckoned without their hoaſt, and it would be well for them they could miſſe of Damnation, which they ſo often deſire, and may juſtly expect, eſpecially deſiring of it ſo near death, that it may be queſtioned whether they had time left to repent; as it hap<g ref="char:EOLhyphen"/>pened with ſome of thoſe that fell at that time, and I hope if they mend not their manners, their Maſter and the reſt will be payd home in the ſame coyne; now how unfit both are to be taken to aſſiſt a King (in an unjuſt War againſt Loyall Subjects) who la<g ref="char:EOLhyphen"/>bour to diſthorne them and enſlave the other, let the World judge; for he that dare already ſo far to take upon him, will doubt<g ref="char:EOLhyphen"/>leſſe when time ſerves, and then be but one throw for 3 King<g ref="char:EOLhyphen"/>doms, will put home for all, and ſo turne Tables with His Ma<g ref="char:EOLhyphen"/>jeſty, putting Him and His to their Penſions, as himſelfe now is and may be worſe, and than it will be too late for the King to think His Parliament and thoſe that adhere to them, His beſt ſub<g ref="char:EOLhyphen"/>jects, when the Sons of <hi>Serviah</hi> are too hard for Him; neither
+<pb n="6" facs="tcp:155707:5"/> will Prince <hi>Rupert</hi> want abbettors and ſharers in this curſed deſign; for many of our young deboyced and Low-fortun'd Nobility and Gentry ſuting therein ſo naturally with this new Conqueror will make no bones to ſhoulder out their old King, to ſet up ſuch an one, as ſhall make them for making him: As for thoſe of the graver and more ſober ſort, ſome of which have been looked at as good Patriots of the Common-wealth, I admire they do not be<g ref="char:EOLhyphen"/>thinke themſelves, and get off betimes, and endeavour to helpe the Lord againſt the mighty; knowing this, what ſide ſoever pre<g ref="char:EOLhyphen"/>vails, they may come ſadly home in ſome caſe or other, though worſe on Prince <hi>Ruperts</hi> part than the Parliament; witneſſe the impriſonment of my Lord <hi>Savill</hi> and the Sheriffe of <hi>Yorke-ſhire,</hi> who now are impriſoned for this ſaying (&amp; that upon juſt ground) The Papiſts bore the greateſt ſway in my Lord of <hi>Newcaſtles</hi> Ar<g ref="char:EOLhyphen"/>my, and none ſuffered to bear offices but ſuch; that they would not fight againſt Religion and their own conſcience, whatſoever elſe may be pretended. And ſuch a ſtratagem may be layd for them, when they may ſpeak leſſe matter according to their con<g ref="char:EOLhyphen"/>ſcience and judgement; as for the other which do hope for ad<g ref="char:EOLhyphen"/>vancement by their Countries ruine, they may come to fall ſhort, as <hi>Eſops</hi> dogge, who ſnatching at a ſhadow loſt the ſubſtance; and marvell not that I put theſe amongſt thoſe that will raiſe their Maſter <hi>P. R.</hi> for they that are not faithfull to their Countrey, can never be Loyall to their King, but as the winde blowes beſt for them, ſo they will ſayle: But for the preventing of this, I be<g ref="char:EOLhyphen"/>ſeech the Lord to open the eyes of His Majeſty, that he duely and truly conſidering, what otherwiſe may come upon Him and His Dominions, may joyn Himſelfe to His great Councell, that ſo He may flouriſh, and His Subjects may enjoy <hi>Peace</hi> and <hi>Truth.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
